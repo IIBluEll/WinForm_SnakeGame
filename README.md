@@ -9,7 +9,7 @@
 
 ## __2. 주요 기능 코드__
 
-#### __1. 뱀 관련 기능__ [<SnakeGame.cs_Link>](https://github.com/IIBluEll/WinForm_SnakeGame/blob/main/HM_SnakeGame/Class%20Folder/SnakeGame.cs,"SnakeGameLink")
+#### __1. 뱀 관련 기능__ [<SnakeGame.cs_Link>](https://github.com/IIBluEll/WinForm_SnakeGame/blob/main/HM_SnakeGame/Class%20Folder/SnakeGame.cs)
 > * __뱀 음식 먹음 및 몸통 증가__   
 > ```C#
 >// Class Folder/SnakeGame.cs - 66 ~ 77
