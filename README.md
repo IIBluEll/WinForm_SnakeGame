@@ -65,7 +65,7 @@
 >        }
 >```
 ---
-#### __2. 게임 UI__  [<GameUI.cs_Link>](https://github.com/IIBluEll/WinForm_SnakeGame/blob/main/HM_SnakeGame/Class%20Folder/GameUI.cs,"GameUILink")
+#### __2. 게임 UI__  [<GameUI.cs_Link>](https://github.com/IIBluEll/WinForm_SnakeGame/blob/main/HM_SnakeGame/Class%20Folder/GameUI.cs)
 > * __인게임 스크린캡쳐 및 저장 기능__
 > ```C#
 >// GameUI.cs 49 ~ 86
@@ -140,7 +140,7 @@
 >                new Rectangle(game.Food.X * Settings.Width , game.Food.Y * Settings.Height , Settings.Width , Settings.Height));
 >        }
 >
-#### __3. 메인 Form 코드__  [<Form1.cs_Link>](https://github.com/IIBluEll/WinForm_SnakeGame/blob/main/HM_SnakeGame/Class%20Folder/Form1.cs,"Form1Link")
+#### __3. 메인 Form 코드__  [<Form1.cs_Link>](https://github.com/IIBluEll/WinForm_SnakeGame/blob/main/HM_SnakeGame/Class%20Folder/Form1.cs)
 >````c#
 >namespace HM_SnakeGame
 >{
